@@ -13,5 +13,5 @@ Respectivamente Nomeados:
 ---
 
 &trade; [ArtesGC Inc.](https://artesgc.home.blog) \
-&copy; 2020-2021 [LizzyGC](https://github.com/LizzyGC)
+&copy; 2020-2021 [LizzyGC](https://github.com/LizzyGC) \
 &copy; 2019-2021 [Nurul Carvalho](mailto:nuruldecarvalho@gmail.com)
